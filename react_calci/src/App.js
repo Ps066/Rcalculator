@@ -1,4 +1,5 @@
 import './App.css';
+
 import Calculator  from './components/calculator'
 import { Credit , Licencetxt, Footer,Head, Icontray, Gh,Li,Tw,Deck,Text,Cicon,Rlogo} from './components/calculator/styled';
 function App() {

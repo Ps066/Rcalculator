@@ -128,7 +128,7 @@ export const Text = styled.p`
 `
 export const Cicon = styled.img`
     margin:10px;
-    animation : heart;
+    animation : Heart;
 `
 export const Rlogo = styled.img`
     
