@@ -62,17 +62,75 @@ export const Buttons = styled.button`
 
 `
 export const Credit = styled.h5`
+    
     &:hover {
-        font-size:1.5rem;
+        font-size:1.2rem;
     } 
     
-    color : #ccffff;
+    color : black;
     font-weight: 900;
-    text-align:center;
+    cursor: pointer;
+    
 `
-export const Avtar = styled.img`
-    width:250px;
+export const Licencetxt = styled.p`
+    color : black;
+    width:800px;
 `
-export const Githublink = styled.a`
 
+export const Footer = styled.div`
+    background-color: /*#00ffcc*/ #00d8ff;
+    border-radius:7px;
+    margin:50px;
+    padding-left: 20px;
+    padding-top:20px;
+    padding-bottom:20px;
+
+`
+export const Head = styled.h1`
+    /*font-family: 'Staatliches', cursive;*/
+    /*font-family: 'Caveat', cursive;*/
+    font-family: 'Neucha', cursive;
+    font-weight: 900;
+    cursor: pointer;
+    grid-column:1/span 11 ;
+
+`
+export const Icontray = styled.div`
+    display: grid;
+    grid-template-columns:repeat(3,70px);
+
+`
+export const Gh = styled.div`
+    /*grid-colu: 1/1;*/
+    cursor: pointer;
+
+`
+export const Li = styled.div`
+    /*grid-rows:2/2;*/
+    cursor: pointer;
+
+`
+export const Tw = styled.div`
+    /*grid-rows:2/2;*/
+    cursor: pointer;
+
+`
+export const Deck = styled.div`
+    display: grid;
+    grid-template-columns:repeat(15,75px);
+
+`
+export const Text = styled.p`
+    font-family: 'Caveat', cursive;
+    font-weight:800;
+    font-size:20px;
+    
+`
+export const Cicon = styled.img`
+    margin:10px;
+    animation : heart;
+`
+export const Rlogo = styled.img`
+    
+    
 `
