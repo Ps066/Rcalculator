@@ -53,9 +53,9 @@ npm install
 ```
 - Then start the development Server
 ```
-npm run develop
+npm start
 ```
-
+<!-- npm run develop-->
 
 ## After running developement server site would be at 
 
