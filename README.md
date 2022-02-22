@@ -37,14 +37,14 @@ Your Contribution will be appreciated.
 - Clone the repo 
 
 ```bash
-git clone https://github.com/anuraghazra/anuraghazra.github.io.git
+git clone https://github.com/Ps066/Rcalculator.git
 ```
 
 - Open it in any of the code editor of your choice
 - Change to project directory 
 
 ```bash
-cd anuraghazra.github.io
+cd react_calci
 ```
 - Install all the dependencies
 
